@@ -136,11 +136,13 @@ int main(void)
 
 # OUTPUT:
 ![output](op1.png)
+
 ![output](op2.png)
+
 ![output](op3.png)
 
 # RESULT:
-Interfacing a digital output with ARM microcontroller is executed 
+Interfacing a digital output with ARM microcontroller is executed.
 
 
 
